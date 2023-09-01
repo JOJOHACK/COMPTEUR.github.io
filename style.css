@@ -1,0 +1,24 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ec38bc;
+}
+
+/* h1 {
+    text-align: center;
+    color: rgb(174, 0, 255);
+} */
+
+span {
+    display: block;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.COMPTEUR {
+    color: rgb(0, 89, 255);
+
+    text-align: center;
+}
